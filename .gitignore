@@ -1,0 +1,49 @@
+.metadata/*
+*.o
+*.d
+stm32f429_discovery_helloworld/Debug/*
+
+# Eclipse 기본 설정 파일
+.metadata/
+.settings/
+.project
+.cproject
+
+# 빌드 결과물
+bin/
+build/
+Debug/
+Release/
+
+# 컴파일러 중간 파일
+*.o
+*.lo
+*.la
+*.al
+*.libs
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.obj
+*.d
+*.idb
+*.i
+# Eclipse의 Makefile 자동 생성 파일 (Makefile 프로젝트일 경우)
+
+Makefile
+makefile
+*.mk
+
+# 캐시 및 로그 파일
+*.log
+*.cache
+*.pyc
+*.pyo
+
+# 기타 OS 및 IDE 관련 파일
+.DS_Store
+Thumbs.db
