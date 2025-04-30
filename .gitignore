@@ -4,10 +4,10 @@
 stm32f429_discovery_helloworld/Debug/*
 
 # Eclipse 기본 설정 파일
-.metadata/
-.settings/
-.project
-.cproject
+# .metadata/
+# .settings/
+# .project
+# .cproject
 
 # 빌드 결과물
 bin/

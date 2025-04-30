@@ -13,7 +13,11 @@
         "stm32f4xx_dac.h": "c",
         "stm32f4xx.h": "c",
         "misc.h": "c",
-        "stm32f4xx_fsmc.h": "c"
+        "stm32f4xx_fsmc.h": "c",
+        "cstdlib": "c",
+        "task.h": "c",
+        "freertosconfig.h": "c",
+        "typeinfo": "c"
     },
     "cmake.options.statusBarVisibility": "visible",
     "cmake.options.advanced": {
